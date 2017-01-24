@@ -6,3 +6,4 @@
 ## Sekolah : SMK Telkom Malang
 ## NIS : 4679/1396.070
 ## Kelas : XI RPL 5
+## No Absen : 05
